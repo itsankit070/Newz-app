@@ -1,2 +1,3 @@
 # Newz-app
-This is a news appwhich shows news on dynamic chnages
+This is a news appwhich shows news on dynamic changes
+
